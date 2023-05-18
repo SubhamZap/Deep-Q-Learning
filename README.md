@@ -12,4 +12,4 @@
 - In this task, the reward is +1 for every incremental timestamp and the environment terminates, if the task is unsuccessful.
 
 Let's understand the various terminology used:
-- https://gymnasium.farama.org/api/env/#gymnasium.Env.reset: 
+- ['reset()'](https://gymnasium.farama.org/api/env/#gymnasium.Env.reset): 
